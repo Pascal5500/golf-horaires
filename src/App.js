@@ -526,3 +526,4 @@ const ScheduleManager = () => {
 };
 
 export default ScheduleManager;
+// Copiez ce fichier dans src/App.js
